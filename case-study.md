@@ -1,4 +1,4 @@
-# Case study: Basic use of Git and Github
+# Case study: Basic use of Git and Github ^&*^&*@^&*#^&83678
 
 ## Scenario 1
 
